@@ -1,5 +1,11 @@
 ### Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c++,c,go,docker" />
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,cpp,c,go,docker" />
 <br>
-### Activity
-[![upnt](https://github-readme-stats.vercel.app/api?username=upnt&count_private=true&show_icons=true&theme=dracula)](https://github.com/upnt)
+
+### Activities
+
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=upnt&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upnt&theme=vue-dark&layout=compact" />
+</div>
