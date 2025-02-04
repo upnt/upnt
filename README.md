@@ -1,6 +1,6 @@
 ## Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,cpp,c,go,docker" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,cpp,c,go,docker,cmake" />
 
 ## Activities
 
