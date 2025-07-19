@@ -1,6 +1,6 @@
-## Skills
+## Profile
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,cpp,c,go,docker,cmake,html,css" />
+<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=upnt&theme=onedark" />
 
 ## Activities
 
@@ -9,5 +9,6 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upnt&theme=dracula&layout=compact" />
 </div>
 
-## Profile
-<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=upnt&theme=onedark" />
+## Skills
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,cpp,c,go,docker,cmake,html,css" />
