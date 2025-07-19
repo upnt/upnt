@@ -10,4 +10,4 @@
 </div>
 
 ## Profile
-[![trophy](https://github-profile-trophy.vercel.app/?username=upnt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=upnt&theme=onedark" />
