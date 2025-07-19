@@ -9,4 +9,5 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upnt&theme=dracula&layout=compact" />
 </div>
 
+## Profile
 <img alt="profile" src="https://github-profile-trophy.vercel.app/?username=upnt" />
