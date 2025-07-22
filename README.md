@@ -1,7 +1,7 @@
 # [upnt](https://upnt.github.io/Homepage/)
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,c,cpp,java,go,lua,html,css,cmake,docker,vim,neovim,git,github," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,c,cpp,java,go,lua,html,css,vim,neovim,vscode,cmake,docker,git,github," />
 
 ## Activities
 
