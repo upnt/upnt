@@ -2,7 +2,7 @@
 
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,c,cpp,java,cmake,docker" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=go,html,css,javascript" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=go,html,css,javascript,lua" />
 
 ## Activities
 
