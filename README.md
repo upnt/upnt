@@ -2,10 +2,10 @@
 
 ## Skills
 ### Languages
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,c,cpp,java,lua,go,html,css" />
+![my skills](https://skillicons.dev/icons?theme=dark&perline=8&i=python,c,cpp,java,lua,go,html,css)
 
 ### Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=cmake,docker,git,github,vim,neovim,vscode" />
+![my skills](https://skillicons.dev/icons?theme=dark&perline=8&i=cmake,docker,git,github,vim,neovim,vscode)
 
 ## Activities
 
